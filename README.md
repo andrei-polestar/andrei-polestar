@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andrei-polestar
-- 👀 I’m interested in learning anything new ; but photography, 3D printing, motorcycles , campervans , DIY in general 
+- 👀 I’m interested in learning anything new ; but mainly :  photography, 3D printing, motorcycles , campervans , DIY in general 
 - 🌱 I’m currently learning python for everyday use 
 - 💞️ I’m looking to collaborate on electro-mechanical DIY projects
 - 📫 How to reach me andrei.dumitru@polestar.com
